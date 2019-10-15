@@ -1,0 +1,53 @@
+{
+	"steps": [
+		{
+			"id": "start",
+			"name": "Start",
+			"type": "start",
+			"x": 120,
+			"y": 60,
+			"uuid": 1,
+			"target": 4
+		},
+		{
+			"uuid": 2,
+			"file": "dynamic.pgui",
+			"id": "gui",
+			"name": "dynamic",
+			"type": "gui",
+			"x": 120,
+			"y": 430,
+			"target": 3
+		},
+		{
+			"x": 120,
+			"y": 580,
+			"uuid": 3,
+			"file": "",
+			"id": "",
+			"name": "",
+			"target": "",
+			"type": "end"
+		},
+		{
+			"uuid": 4,
+			"file": "file-utils.R",
+			"id": "file-utils.R",
+			"name": "file-utils.R",
+			"type": "rscript",
+			"x": 120,
+			"y": 180,
+			"target": 5
+		},
+		{
+			"uuid": 5,
+			"file": "button.R",
+			"id": "button.R",
+			"name": "button.R",
+			"type": "rscript",
+			"x": 120,
+			"y": 260,
+			"target": 2
+		}
+	]
+}

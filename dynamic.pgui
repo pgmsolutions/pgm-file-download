@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"id": "",
+			"type": "button",
+			"data": {
+				"value": "Télécharger fichier",
+				"isr": false,
+				"css": "",
+				"margintop": "10",
+				"labeltext": "",
+				"labelposition": "left",
+				"helptext": "",
+				"helpposition": "bottom",
+				"onpress": "myButton()",
+				"buttonsize": "lg",
+				"buttondesign": "primary"
+			},
+			"uid": "rpgmgui-0"
+		}
+	]
+}
