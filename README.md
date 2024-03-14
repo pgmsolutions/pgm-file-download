@@ -1,3 +1,9 @@
+# This repository is deprecated
+
+> [!CAUTION]
+>
+> This repository is no longer needed, as a function `rpgm.open()` has been added in RPGM. More info: https://docs.pgm-solutions.com/rpgm/latest/api/r/rpgm/#rpgmopenfile
+
 # File Download for RPGM Server
 
 This repository is literally a hack for allowing RPGM Server to download files without using `rpgm.addToEndScreen()` and
